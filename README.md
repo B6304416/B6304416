@@ -1,4 +1,7 @@
-Hi 👋 My name is Natthapon Jongketkrum ======================================  Computer engineering --------------------
+Hi 👋 My name is Natthapon Jongketkrum 
+======================================  
+Computer engineering 
+--------------------
 
 ### Skills  
 
